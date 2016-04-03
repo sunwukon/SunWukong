@@ -1,0 +1,2 @@
+debian/bin/Monkeyd usr/bin
+src/Monkeyd usr/lib/Monkey
